@@ -1,0 +1,1 @@
+VEnv Manager is a PyQt6 desktop application for creating and managing Python virtual environments, packages, project tools, and virtual disk images.
